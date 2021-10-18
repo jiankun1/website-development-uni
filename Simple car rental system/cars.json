@@ -1,0 +1,135 @@
+ {"cars":[
+    {
+        "Category":"Sedan",
+        "Availability":"True",
+        "Brand":"Toyota",
+        "Model":"Camry",
+        "Model year":"2013",
+        "Mileage":"26170",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"120",
+        "Description":"The Camry is easy to drive and offers a comfortable ride along with hybrid technology, seamlessly integrates high torque of electric motor with the power of petrol-driven engine."
+    },
+    {
+        "Category":"SUV",
+        "Availability":"True",
+        "Brand":"Nissan",
+        "Model":"X-trail",
+        "Model year":"2020",
+        "Mileage":"11635",
+        "Fuel type":"Petrol",
+        "Seats":"7",
+        "Price per day":"512",
+        "Description":"The Nissan X-Trail has motion-activated tailgate and large space, it is a comfortable car for family in tour."
+    },
+    {
+        "Category":"Sedan",
+        "Availability":"False",
+        "Brand":"BMW",
+        "Model":"320i",
+        "Model year":"2012",
+        "Mileage":"45781",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"230",
+        "Description":"This BMW 3 series 320i has 4 cylinder turbo intercooled 2.0L engine, it contains the features of luxury, economy and sporty performance."
+    },
+    {
+        "Category":"SUV",
+        "Availability":"True",
+        "Brand":"Holden",
+        "Model":"Captiva",
+        "Model year":"2017",
+        "Mileage":"37980",
+        "Fuel type":"Petrol",
+        "Seats":"7",
+        "Price per day":"480",
+        "Description":"This Captiva has automatic transmission and 4 cylinder 2.4L engine, provides 7-inch touch dispaly and Apple Carplay."
+    },
+    {
+        "Category":"SUV",
+        "Availability":"False",
+        "Brand":"Jeep",
+        "Model":"Cherokee",
+        "Model year":"2019",
+        "Mileage":"9000",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"500",
+        "Description":"The 9 speed sports 4x4 Cherokee has 6 cylinder aspirated 3.2L engine, it is designed for off-road driving and it also provides comfortable interior."
+    },
+    {
+        "Category":"Sedan",
+        "Availability":"True",
+        "Brand":"Honda",
+        "Model":"Civic",
+        "Model year":"2016",
+        "Mileage":"36870",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"260",
+        "Description":"The 10th generation Civic VTi-L with 1.5L turbo engine is powerful and economical, it is suitable for urban and sururban driving."
+    },
+    {
+        "Category":"SUV",
+        "Availability":"True",
+        "Brand":"Mercedes-Benz",
+        "Model":"GLC",
+        "Model year":"2019",
+        "Mileage":"16235",
+        "Fuel type":"Diesel",
+        "Seats":"5",
+        "Price per day":"500",
+        "Description":"Brilliant blue AMG GLC43 coupe means agility, sportness and extraordinary performance."
+    },
+    {
+        "Category":"Wagon",
+        "Availability":"True",
+        "Brand":"Mazda",
+        "Model":"6",
+        "Model year":"2020",
+        "Mileage":"3000",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"500",
+        "Description":"The GT Wagon 5dr Mazda 6 with 2.5L turbo engine can bring you the best experience when you travel with your family."
+    },
+    {
+        "Category":"SUV",
+        "Availability":"False",
+        "Brand":"Suzuki",
+        "Model":"Jimny",
+        "Model year":"2016",
+        "Mileage":"37970",
+        "Fuel type":"Petrol",
+        "Seats":"4",
+        "Price per day":"320",
+        "Description":"Superior white SN413 3dr 4x4 Sierra has 1.3L engine and can deal with any conditions because of ots size."
+    },
+    {
+        "Category":"Sedan",
+        "Availability":"True",
+        "Brand":"Hyundai", 
+        "Model":"Sonata",
+        "Model year":"2018",
+        "Mileage":"8765",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"260",
+        "Description":"The sport 2.0T Sonata is suitable for daily use and has drive performance mode as well."
+    },
+    {
+        "Category":"Sedan",
+        "Availability":"True",
+        "Brand":"Volkswagen", 
+        "Model":"Golf",
+        "Model year":"2016",
+        "Mileage":"42000",
+        "Fuel type":"Petrol",
+        "Seats":"5",
+        "Price per day":"300",
+        "Description":"The Golf GTI 7 with manual transmission and 2.0L turbo engine is suitable for those who want speedy driving experience."
+    }
+]
+}
